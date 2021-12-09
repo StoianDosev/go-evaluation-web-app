@@ -31,10 +31,10 @@ to run the web server.
 
 ## Endpoints
 
-**GET:** [/ping](http://localhost:5000/ping)
-**GET:** [/errors](http://localhost:5000/errors)
-**POST:** [/evaluate](http://localhost:5000/evaluate)
-**POST:** [/validate](http://localhost:5000/validate)
+- **GET:** [/ping](http://localhost:5000/ping)
+- **GET:** [/errors](http://localhost:5000/errors)
+- **POST:** [/evaluate](http://localhost:5000/evaluate)
+- **POST:** [/validate](http://localhost:5000/validate)
 
 ## Unit tests
 
